@@ -8,4 +8,4 @@ We have covered till now
 - Installating python the best way
 - overview of python
 - git essentials
-- 
+- next class will be on python concepts 
